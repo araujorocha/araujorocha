@@ -8,12 +8,14 @@
 - 🔒💻 Meu objetivo é trabalhar com cibersegurança.
 - 🔴 Amaria fazer parte do Red team
 - 🔭 Sou apaixonada pelo espaço
+- 📧 araujorocha.samyra@gmail.com 
 - 😄 Pronomes: ela/dela.
+  
 
 
 ## Estatísticas do GitHub
 
-A estatística vai melhorar! 😁
+As estatísticas vão melhorar! 😁
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark)](https://github.com/araujorocha)
 
