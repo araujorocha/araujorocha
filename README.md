@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente, estou aprendendo HTML, CSS e JS.
 - 💼 Trabalho como Customer Success.
-- 🔒💻 Meu objetivo é trabalhar com cibersegurança.
+- 🔒💻 Meu objetivo é trabalhar com segurança cibernética.
 - 🔴 Amaria fazer parte do Red team
 - 🔭 Sou apaixonada pelo espaço
 - 📧 araujorocha.samyra@gmail.com 
