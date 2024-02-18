@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**araujorocha/araujorocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Oie, me chamo Samyra! 👋
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente, estou aprendendo HTML, CSS e JS.
+- 💼 Trabalho como Customer Success.
+- 🔒💻 Meu objetivo é trabalhar com cibersegurança.
+- 🔴 Amaria fazer parte do Red team
+- 🔭 Sou apaixonada pelo espaço
+- 😄 Pronomes: ela/dela.
+
+
+## Estatísticas do GitHub
+
+A estatística vai melhorar! 😁
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark)](https://github.com/araujorocha)
+
+## Vamos Conectar?
+Fique à vontade para me conectar no LinkedIn! 😊
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/samyra-araújo-rocha)
+
+
+
