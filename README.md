@@ -20,7 +20,7 @@ A estatística vai melhorar! 😁
 ## Vamos Conectar?
 Fique à vontade para me conectar no LinkedIn! 😊
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/samyra-araújo-rocha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/samyra-ara%C3%BAjo-rocha/)
 
 
 
