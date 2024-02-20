@@ -17,7 +17,7 @@
 
 As estatísticas vão melhorar! 😁
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark)](https://github.com/araujorocha)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=araujorocha&show_icons=true&theme=dark)](https://github.com/araujorocha)
 
 ## Vamos Conectar?
 Fique à vontade para me conectar no LinkedIn! 😊
