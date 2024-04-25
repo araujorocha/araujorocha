@@ -4,11 +4,12 @@
 ## Sobre Mim
 
 - 🌱 Atualmente, estou aprendendo HTML, CSS e JS.
-- 💼 Trabalho como Customer Success.
+- 💼 Trabalho como Gerente de Suporte.
 - 🔒💻 Meu objetivo é trabalhar com segurança cibernética.
 - 🔴 Amaria fazer parte do Red team
 - 🔭 Sou apaixonada pelo espaço
-- 📧 araujorocha.samyra@gmail.com 
+- 📧 araujorocha.samyra@gmail.com
+- 🔍 https://www.linkedin.com/in/samyra-araujo-rocha/ 
 - 😄 Pronomes: ela/dela.
   
 
